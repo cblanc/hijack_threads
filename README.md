@@ -20,7 +20,7 @@ curl -N http://localhost:3000/
 Create a standard HTTP request which will block a thread for 5 seconds
 
 ```
-curl -N http://localhost:3000/
+curl -N http://localhost:3000/delayed
 ```
 
 ## Results
